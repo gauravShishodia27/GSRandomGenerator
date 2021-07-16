@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.version      = "1.0.0"
   spec.summary      = "Random Generator By Gaurav Shishodia"
   spec.homepage     = "https://github.com/gauravShishodia27/GSRandomGenerator.git"
-  spec.license      = "MIT"
+  spec.license          = { :type => 'MIT', :file => 'LICENSE' }
   spec.author             = { "Gaurav Shishodia" => "Gauravshishodia27@gmail.com" }
   spec.platform     = :ios
   spec.platform     = :ios, "13.0"
